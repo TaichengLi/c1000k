@@ -1,8 +1,6 @@
 /*****************************************************
  * The TCP socket client to help you to test if your
  * OS supports c1000k(1 million connections).
- * @author: ideawu
- * @link: http://www.ideawu.com/
  *****************************************************/
 #include <stdio.h>
 #include <stdlib.h>
